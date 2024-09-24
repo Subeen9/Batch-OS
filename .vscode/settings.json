@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "factorial.C": "cpp",
+        "summation.C": "cpp",
+        "passwordGenerator.C": "cpp",
+        "dots.C": "cpp",
+        "dollar.C": "cpp",
+        "printHash.C": "cpp"
+    }
+}

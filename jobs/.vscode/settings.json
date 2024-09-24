@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "dots.C": "cpp",
+        "summation.C": "cpp",
+        "factorial.C": "cpp",
+        "printHash.C": "cpp"
+    }
+}
